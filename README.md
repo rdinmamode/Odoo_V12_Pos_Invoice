@@ -1,0 +1,1 @@
+# Odoo_V12_Pos_Invoice
